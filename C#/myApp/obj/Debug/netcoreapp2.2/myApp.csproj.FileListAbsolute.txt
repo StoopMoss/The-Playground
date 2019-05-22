@@ -1,0 +1,11 @@
+/Users/conner/Documents/ComputerScience/The-Playground/C#/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/conner/Documents/ComputerScience/The-Playground/C#/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/conner/Documents/ComputerScience/The-Playground/C#/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/conner/Documents/ComputerScience/The-Playground/C#/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/conner/Documents/ComputerScience/The-Playground/C#/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/conner/Documents/ComputerScience/The-Playground/C#/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/conner/Documents/ComputerScience/The-Playground/C#/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/conner/Documents/ComputerScience/The-Playground/C#/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/conner/Documents/ComputerScience/The-Playground/C#/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/conner/Documents/ComputerScience/The-Playground/C#/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/conner/Documents/ComputerScience/The-Playground/C#/myApp/obj/Debug/netcoreapp2.2/myApp.pdb

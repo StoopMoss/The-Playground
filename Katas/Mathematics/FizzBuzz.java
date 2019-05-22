@@ -7,10 +7,10 @@ public class FizzBuzz {
 		for (int i = 0; i < 100; i++) {
 			System.out.println(Integer.toString(i));
 		}
-		print(); 
+		this.print(); 
 	}
 
-	public static void print(){
+	public void print(){
 		System.out.println("this is a test");
 		System.out.println("Can you Hear ME?");
 		System.out.println("Can you all See me?");
