@@ -1,0 +1,18 @@
+
+The length of an Array is one more than it's max element index.
+
+A = Array
+L = length of an array 'A'
+M = Max element index
+E = Element index
+
+
+Graphic 
+A = [0][1][2][3][4]
+L = 5
+M = 4
+
+
+L = M + 1
+
+L - 1 = M 
